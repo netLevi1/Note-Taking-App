@@ -1,7 +1,7 @@
 # Note-Taking-App
 
 A full-stack note-taking application that allows users to manage their notes.
-| ![img](https://github.com/user-attachments/assets/923fd08a-87c0-41e1-bdd0-2831e87b2a97) | 
+| ![img](https://github.com/user-attachments/assets/25522b23-9589-400d-b0e4-c28a2d11a256) | 
 | ------------- |
 
 
